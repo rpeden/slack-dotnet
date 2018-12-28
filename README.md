@@ -1,4 +1,6 @@
-# Writing to a Slack Channel - .NET Edition
+Note: This tutorial is part of CodeProject's [Slack API Challenge](https://www.codeproject.com/Competitions/1069/Slack-API-Challenge.aspx). If you haven't already worked through the [introductory article](https://www.codeproject.com/Articles/1272958/Creating-Your-First-Slack-App) and created your Slack app, please do that now, as this tutorial builds on the first one.
+
+# Introduction
 In this article, we’ll be creating a simple Node.js application that can write to a Slack channel. If you haven’t completed the first tutorial in this series where you learn about Slack’s APIs and create your first workspace and application, please do that first. (add link when posted)
 
 To keep things nice and simple, we’re going to be using Slack’s Web API. This means that all we’ll need to be able to do to write to a Slack channel is make HTTP POST requests. Since this functionality is built into Node’s standard library, creating our app will be quick and easy.
