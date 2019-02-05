@@ -147,7 +147,7 @@ Now, if you look in the `#general` channel in your Slack workspace, you'll see t
 ## We're all done!
 And that's it! You've written your first Slack API app. That was pretty easy, wasn't it?
 
-Now for the really good news: you can officially add 'Slack API Developer' to your LinkedIn profile, and look forward to an avalanche of messages from recruiters telling you that you're the perfect candidate for a role they're trying to fill!
+Now for the really good news: you can officially add 'Slack API Developer' to your LinkedIn profile, and look forward to an avalanche of messages from recruiters telling you that you're the perfect candidate for a role they're trying to fill...
 
 
 
